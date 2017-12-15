@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 7d5bb57987736448f804309f2d817de8
+timeCreated: 1485471508
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back-bar
+    100002: //RootNode
+    100004: bar-partition
+    100006: front-bar
+    100008: cooler
+    100010: cooler-glass
+    100012: cooler-handles
+    100014: Cube
+    100016: Plane
+    100018: Plane_001
+    100020: cooler-door-frame
+    100022: cooler-inside
+    100024: cooler-outside
+    100026: cooler-light
+    100028: cooler-rack-bottom
+    100030: cooler-rack-top
+    400000: back-bar
+    400002: //RootNode
+    400004: bar-partition
+    400006: front-bar
+    400008: cooler
+    400010: cooler-glass
+    400012: cooler-handles
+    400014: Cube
+    400016: Plane
+    400018: Plane_001
+    400020: cooler-door-frame
+    400022: cooler-inside
+    400024: cooler-outside
+    400026: cooler-light
+    400028: cooler-rack-bottom
+    400030: cooler-rack-top
+    2300000: back-bar
+    2300002: bar-partition
+    2300004: front-bar
+    2300006: cooler
+    2300008: cooler-glass
+    2300010: cooler-handles
+    2300012: Cube
+    2300014: Plane
+    2300016: Plane_001
+    2300018: cooler-door-frame
+    2300020: cooler-inside
+    2300022: cooler-outside
+    2300024: cooler-light
+    2300026: cooler-rack-bottom
+    2300028: cooler-rack-top
+    3300000: back-bar
+    3300002: bar-partition
+    3300004: front-bar
+    3300006: cooler
+    3300008: cooler-glass
+    3300010: cooler-handles
+    3300012: Cube
+    3300014: Plane
+    3300016: Plane_001
+    3300018: cooler-door-frame
+    3300020: cooler-inside
+    3300022: cooler-outside
+    3300024: cooler-light
+    3300026: cooler-rack-bottom
+    3300028: cooler-rack-top
+    4300000: front-bar
+    4300002: back-bar
+    4300004: bar-partition
+    4300006: Cube
+    4300008: Plane_001
+    4300010: Plane
+    4300012: cooler-glass
+    4300014: cooler-handles
+    4300016: cooler
+    4300018: cooler-door-frame
+    4300020: cooler-outside
+    4300022: cooler-inside
+    4300024: cooler-light
+    4300026: cooler-rack-bottom
+    4300028: cooler-rack-top
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

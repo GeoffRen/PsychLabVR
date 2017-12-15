@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 36582f7471bd458408c633f31e5a0e1d
+timeCreated: 1485724197
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: phone
+    100004: phone-buttons
+    100006: phone-reciver
+    100008: phone-screen
+    100010: seating-chart
+    100012: seating-chart_writing-surface
+    100014: //RootNode
+    100016: lamp
+    100018: lamp_inside
+    100020: counter-top
+    100022: welcome-station
+    400000: Cylinder
+    400002: phone
+    400004: phone-buttons
+    400006: phone-reciver
+    400008: phone-screen
+    400010: seating-chart
+    400012: seating-chart_writing-surface
+    400014: //RootNode
+    400016: lamp
+    400018: lamp_inside
+    400020: counter-top
+    400022: welcome-station
+    2300000: Cylinder
+    2300002: phone
+    2300004: phone-buttons
+    2300006: phone-reciver
+    2300008: phone-screen
+    2300010: seating-chart
+    2300012: seating-chart_writing-surface
+    2300014: lamp
+    2300016: lamp_inside
+    2300018: counter-top
+    2300020: welcome-station
+    3300000: Cylinder
+    3300002: phone
+    3300004: phone-buttons
+    3300006: phone-reciver
+    3300008: phone-screen
+    3300010: seating-chart
+    3300012: seating-chart_writing-surface
+    3300014: lamp
+    3300016: lamp_inside
+    3300018: counter-top
+    3300020: welcome-station
+    4300000: phone-screen
+    4300002: phone-buttons
+    4300004: phone-reciver
+    4300006: phone
+    4300008: seating-chart_writing-surface
+    4300010: seating-chart
+    4300012: Cylinder
+    4300014: lamp_inside
+    4300016: lamp
+    4300018: counter-top
+    4300020: welcome-station
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
